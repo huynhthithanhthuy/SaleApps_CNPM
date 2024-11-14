@@ -1,0 +1,45 @@
+[
+    {
+    "id": 1,
+    "name": "Iphone 16 Promax",
+    "price": 30000000,
+    "image":"https://res.cloudinary.com/dz03d8gcs/image/upload/v1729329018/Apple-iPhone-16-Pro-hero-240909_inline.jpg.large.jpg",
+    "category_id": 1
+  },
+  {
+    "id": 2,
+    "name": "Iphone 16 ",
+    "price": 25000000,
+    "image":"https://res.cloudinary.com/dz03d8gcs/image/upload/v1729329018/Apple-iPhone-16-Pro-hero-240909_inline.jpg.large.jpg",
+    "category_id": 1
+  },
+  {
+    "id": 3,
+    "name": "Iphone 15 Promax",
+    "price": 25000000,
+    "image":"https://res.cloudinary.com/dz03d8gcs/image/upload/v1729329018/Apple-iPhone-16-Pro-hero-240909_inline.jpg.large.jpg",
+    "category_id": 1
+  },
+    {
+    "id": 4,
+    "name": "Galaxy Z Fold 6",
+    "price": 35000000,
+    "image": "https://res.cloudinary.com/dz03d8gcs/image/upload/v1730814745/61O9rJ8hHnL_lhd0d5.jpg",
+      "category_id": 1
+  },
+    {
+    "id": 5,
+    "name": "Lenovo Slim 5",
+    "price": 25000000,
+    "image":"https://res.cloudinary.com/dz03d8gcs/image/upload/v1730814901/x1c4zc1zzg0trlr7vhk53jnbpy3gvd072120_bpttjf.png",
+      "category_id": 2
+
+  },
+    {
+    "id": 6,
+    "name": "Samsung Book3",
+    "price": 40000000,
+    "image":"https://res.cloudinary.com/dz03d8gcs/image/upload/v1730815020/668d18034598d1652d768a37-samsung-galaxy-book3-pro-360-2-in-1_ngfrep.jpg",
+      "category_id": 3
+  }
+]
